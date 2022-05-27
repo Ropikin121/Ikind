@@ -1,0 +1,2 @@
+# Ikind
+latihan
